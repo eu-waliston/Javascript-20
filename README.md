@@ -3,7 +3,7 @@
 ## Repository that i'll build 20 javascript projects 
 
 ### So what we gonna do? :
-  - [x] Quote Generator
+  - [x] Quote Generator App: https://javascript-20.vercel.app/
   - [ ] Infinity Scroll
   - [ ] Picture In Picture
   - [ ] Joke Teller
@@ -28,3 +28,4 @@
 
 ### Frequency
   - Only Weekends
+  
