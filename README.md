@@ -3,7 +3,7 @@
 ## Repository that i'll build 20 javascript projects 
 
 ### So what we gonna do? :
-  - [ ] Quote Generator
+  - [x] Quote Generator
   - [ ] Infinity Scroll
   - [ ] Picture In Picture
   - [ ] Joke Teller
