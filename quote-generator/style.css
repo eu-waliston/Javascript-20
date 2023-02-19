@@ -23,12 +23,12 @@ body {
   max-width: 900px;
   padding: 20px 30px;
   border-radius: 10px;
-  background-color: rgba(255,255,255, 0.4);
-  box-shadow: 0 10px 10px 10px rgba(0,0,0, 0.2);
+  background-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .quote-text {
-  font-size: 2.75rem; 
+  font-size: 2.75rem;
 }
 
 .log-quote {
@@ -70,8 +70,8 @@ button:hover {
 }
 
 button:active {
-  transform: translate(0,0.3rem);
-  box-shadow: 0 0.1rem rgba(255,255,255, 0.65);
+  transform: translate(0, 0.3rem);
+  box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
 }
 
 .twitter-button:hover {
@@ -81,6 +81,27 @@ button:active {
 .fa-twitter {
   font-size: 1.5rem;
 }
+
+
+/* -- EXTRA  LOADER  --*/
+.loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #333;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 /*Media query: Tablet or Smaller*/
 @media screen and (max-width: 1000px) {
   .quote-container {
