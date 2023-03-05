@@ -5,7 +5,7 @@
 ### So what we gonna do? :
   - [x] Quote Generator | App: https://javascript-20.vercel.app/
   - [x] Infinity Scroll | App: https://javascript-20-h78c.vercel.app/
-  - [ ] Picture In Picture
+  - [X] Picture In Picture | App: https://javascript-20-a27o.vercel.app/
   - [ ] Joke Teller
   - [ ] Light & Dark Mode
   - [ ] Animated Template
