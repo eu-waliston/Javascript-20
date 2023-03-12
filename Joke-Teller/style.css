@@ -37,7 +37,7 @@ button {
   background: #ff3482;
   border: none;
   border-radius: 5px;
-  box-shadow: 2px 2px 20px 10px rgba(0,0,0, 0.2);
+  box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2);
 }
 
 button:hover {
@@ -57,13 +57,13 @@ button:disabled {
 ====== media query: Table or Smaller =====
 */
 
-@media screen  and (max-width: 1000px){
+@media screen and (max-width: 1000px) {
   .container {
     background-position: center center;
     background-size: cover;
   }
 
   button {
-    box-shadow: 5px 5px 30px 20px rgba(0,0,0, 0.5);
+    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
   }
 }
