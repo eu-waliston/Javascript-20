@@ -3,10 +3,10 @@
 ## Repository that i'll build 20 javascript projects 
 
 ### So what we gonna do? :
-  - [x] Quote Generator | App: https://javascript-20.vercel.app/
-  - [x] Infinity Scroll | App: https://javascript-20-h78c.vercel.app/
-  - [X] Picture In Picture | App: https://javascript-20-a27o.vercel.app/
-  - [ ] Joke Teller
+  - [x] Quote Generator 
+  - [x] Infinity Scroll 
+  - [X] Picture In Picture 
+  - [X] Joke Teller
   - [ ] Light & Dark Mode
   - [ ] Animated Template
   - [ ] Navigation Nation
