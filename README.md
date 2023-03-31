@@ -26,6 +26,3 @@
   - [ ] Extras
 
 
-### Frequency
-  - Only Weekends
-
