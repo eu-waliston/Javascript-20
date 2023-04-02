@@ -8,7 +8,7 @@
   - [X] Picture In Picture
   - [X] Joke Teller
   - [X] Light & Dark Mode
-  - [ ] Animated Template
+  - [X] Animated Template
   - [ ] Navigation Nation
   - [ ] Music Player
   - [ ] Custom Countdown
