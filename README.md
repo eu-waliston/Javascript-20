@@ -9,7 +9,7 @@
   - [X] Joke Teller
   - [X] Light & Dark Mode
   - [X] Animated Template
-  - [ ] Navigation Nation
+  - [X] Navigation Nation
   - [ ] Music Player
   - [ ] Custom Countdown
   - [ ] Book Keeper
