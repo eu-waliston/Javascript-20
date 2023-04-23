@@ -10,7 +10,7 @@
   - [X] Light & Dark Mode
   - [X] Animated Template
   - [X] Navigation Nation
-  - [ ] Music Player
+  - [X] Music Player
   - [ ] Custom Countdown
   - [ ] Book Keeper
   - [ ] Video Player
