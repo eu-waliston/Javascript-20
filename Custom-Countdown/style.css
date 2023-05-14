@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 
 html {
   box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
   overflow-y: hidden;
   display: flex;
   align-items: center;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 /* Video Background */
@@ -35,7 +35,7 @@ video {
   top: 0;
   height: 100vh;
   width: 100vw;
-  background: rgba(255,255,255, 0.35);
+  background: rgba(255, 255, 255, 0.35);
 }
 
 /* Container */
@@ -49,7 +49,7 @@ video {
   z-index: 2;
   display: flex;
   justify-content: center;
-  background: rgba(255,255,255, 0.85);
+  background: rgba(255, 255, 255, 0.85);
 }
 
 .input-container {
@@ -82,7 +82,7 @@ input {
   border-radius: 20px;
   background: #fff;
   outline: none;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 /* Button */
@@ -109,7 +109,7 @@ ul {
 }
 
 li {
-
+  display: inline-block;
   font-size: 30px;
   list-style-type: none;
   padding: 10px;
@@ -128,6 +128,29 @@ li span {
   top: 60px;
 }
 
+.complete-title {
+  animation: complete 4s infinite;
+}
+
+@keyframes complete {
+  0% {
+    color: rgb(224, 23, 23);
+  }
+
+  25% {
+    color: rgb(236, 236, 11);
+  }
+  50% {
+    color: rgb(16, 211, 16);
+    transform: scale(1.5);
+  }
+  75% {
+    color: rgb(28, 46, 206);
+  }
+  100% {
+    color: rgb(206, 14, 206);
+  }
+}
 
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
@@ -135,7 +158,7 @@ li span {
     height: 100vh;
     width: 100vw;
   }
-  
+
   video {
     object-fit: cover;
     margin-top: -1px;
