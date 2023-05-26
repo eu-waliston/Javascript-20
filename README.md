@@ -11,7 +11,7 @@
   - [X] Animated Template
   - [X] Navigation Nation
   - [X] Music Player
-  - [X] Custom Countdown
+  - [ ] Custom Countdown
   - [ ] Book Keeper
   - [ ] Video Player
   - [ ] Form Validator
